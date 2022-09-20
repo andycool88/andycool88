@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andycool88
-- 👀 I’m interested in Java development full stack
-- 🌱 I’m currently learning core java
-- 💞️ I’m looking to collaborate on java development tasks.
+- 👋 Hi, I am Emaye Andrew 
+- 👀 I’m interested in Front End development 
+- 🌱 I’m currently learning Software Engineering.
+- 💞️ I’m looking to collaborate on software development tasks.
 - 📫 How to reach me is by dm
 
 <!---
